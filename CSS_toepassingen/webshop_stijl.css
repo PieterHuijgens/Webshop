@@ -1,0 +1,16 @@
+body {
+	background-color: DarkCyan;
+	font-family: "Georgia";
+}
+
+h1 {
+	color: orange;
+	text-align: center;
+}
+img.centered {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 20%;
+	width: 20%;
+}
